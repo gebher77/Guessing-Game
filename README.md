@@ -9,7 +9,6 @@ Number Guessing Game in C is a practice project designed to help improve C progr
 
 - 🎯 **Number Guessing Gameplay**: Try to guess the randomly generated number within a specified range.
 - 📊 **Difficulty Levels**: Choose from different difficulty levels (Easy, Medium, Hard) at the beginning of the game.
-- 🔁 **Replay Option**: Option to play again after each round.
 
 ## 🛠️ Technologies Used
 
